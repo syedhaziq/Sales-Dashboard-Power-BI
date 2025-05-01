@@ -30,4 +30,4 @@ This dashboard provides key business metrics and analytics to support data-drive
 ![Dashboard](dashboard2.png "Dashboard 2")  
 ![Dashboard](datamodel.png "data model")  
 
-<video src='Dashboard.mkv' width=180/>
+
