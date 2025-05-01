@@ -25,9 +25,9 @@ This dashboard provides key business metrics and analytics to support data-drive
 * Data storage: MySQL Database
 
 
-<video src='Dashboard.mkv' width=180/>
-
 
 ![Dashboard](dashboard1.png "Dashboard 1")  
 ![Dashboard](dashboard2.png "Dashboard 2")  
 ![Dashboard](datamodel.png "data model")  
+
+<video src='Dashboard.mkv' width=180/>
