@@ -24,4 +24,4 @@ This dashboard provides key business metrics and analytics to support data-drive
 * Data visualization: Power BI
 * Data storage: MySQL Database
 
-  
+![Dashboard](dashboard1.png "Dashboard 1")  
