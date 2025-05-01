@@ -1,5 +1,3 @@
-# Sales-Dashboard-Power-BI
-
 # Sales Analytics Dashboard
 A business intelligence solution for tracking sales and profit performance with interactive visualizations.
 
