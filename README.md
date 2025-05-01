@@ -8,9 +8,9 @@ This dashboard provides key business metrics and analytics to support data-drive
 
 * Performance Metrics: Track total sales, profit, orders, delivery times, and average order values
 * Interactive Visualizations: View sales trends, product category distribution, and shipping preferences
-* Geographic Analysis: See top performing cities and regions
+* Geographic Analysis: See top performing cities.
 * Time Analysis: Filter data by year and analyze quarterly performance
-* Category Analysis: Drill down into product categories and subcategories
+* Category Analysis: Drill down into product categories.
 
 # Data Model
   ## Built on a star schema with:
