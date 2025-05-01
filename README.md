@@ -14,20 +14,14 @@ This dashboard provides key business metrics and analytics to support data-drive
 * Time Analysis: Filter data by year and analyze quarterly performance
 * Category Analysis: Drill down into product categories and subcategories
 
-Data Model
-Built on a star schema with:
+# Data Model
+  ## Built on a star schema with:
 
-Central fact table (dashboard_fact_sales) containing sales metrics
-Dimension tables for time, products, customers, and shipping methods
-Relationships enabling multi-dimensional analysis
+   * Central fact table (dashboard_fact_sales) containing sales metrics
+   * Dimension tables for time, products, customers, and shipping methods
+   * Relationships enabling multi-dimensional analysis
 
-Getting Started
+# Technology
 
-Clone this repository
-Connect to your data source
-Configure refresh settings as needed
-
-Technology
-
-Data visualization: [Your BI Tool]
-Data storage: SQL Database
+Data visualization: Power BI
+Data storage: MySQL Database
