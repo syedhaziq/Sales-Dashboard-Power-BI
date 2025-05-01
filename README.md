@@ -23,5 +23,7 @@ This dashboard provides key business metrics and analytics to support data-drive
 
 # Technology
 
-Data visualization: Power BI
-Data storage: MySQL Database
+* Data visualization: Power BI
+* Data storage: MySQL Database
+
+  
